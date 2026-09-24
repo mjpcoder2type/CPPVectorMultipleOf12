@@ -1,2 +1,3 @@
 # CPPVectorMultipleOf12
 A small C++ program that takes multiples of 12, adds them to a vector and verifies input.
+I created this small program in order to test myself regarding vectors.  I find these dynamic arrays an incredible tool.  We have a vector starting with the number 12 and ending with the number 120.  The user is asked to input any number in the series after 120;this is checked within the program.  Whatever choice is made is added to the end of the vector.  Recursion allows the function to be called within the function; also something that fascinates me.  It's a glaring example of how math and CS are joined at the hip.  All text and output is updated each time the user gives a correct entry.
